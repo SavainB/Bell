@@ -3,3 +3,7 @@ Les nombres de Bell B(n) forment une suite de nombres entiers correspondant au n
 1.  Implémenter plusieurs algorithmes permettant de calculer les nombres B(n), et
 les comparer en temps d’exécution. 
 2. Écrire un programme qui affiche toutes les partitions d’un ensemble à n éléments, discuter de son efficacité.
+
+
+### Utilisation d'un tableau
+![alt text](https://github.com/SavainB/Bell/blob/master/image/tableau.png)
